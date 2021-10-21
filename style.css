@@ -1,0 +1,41 @@
+body{
+    font-family: 'Bubbler One', sans-serif;
+}
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+.intro-name{
+    font-size: 5.5vw;
+}
+.btn-outline-primary{
+    color:blueviolet;
+    border-color: blueviolet;
+    border-radius:5%
+}
+.btn-outline-primary:hover{
+    color:white;
+    border-color:blueviolet;
+    background-color: blueviolet;
+}
+.btn-primary{
+    color:white;
+    border-color: blueviolet;
+    background-color: blueviolet;
+    border-radius:5%
+}
+.btn-primary:hover{
+    color:blueviolet;
+    border-color:blueviolet;
+    background-color: white;
+}
+.skills-list{
+    background-image: linear-gradient(purple, blueviolet);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
+.skills{
+    
+}
